@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  font-size: 100%;
+  background-image: radial-gradient(rgb(255, 255, 255), rgb(126, 126, 126));
+}
+p {
+  margin: 3%;
+}
+header {
+    padding: 50px;
+    text-align: center;
+    background-image: radial-gradient(rgb(255, 255, 255), rgb(24, 24, 24));
+    color: black;
+    font-size: 25px;
+}
+  
+header nav ul li a{
+    font-size: 1rem;
+    font-weight: bold;
+    color: black;
+}
+
+h2, h3, h4, h5, h6 {
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.fon {
+  height: 15px;
+  margin: 1%;
+  background-image: radial-gradient(rgb(253, 253, 254), black);
+}
